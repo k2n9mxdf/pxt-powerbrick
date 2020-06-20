@@ -9,7 +9,7 @@ rgb pixel port from Microsoft/pxt-neopixel
 
 
 //% color="#13c2c2" weight=10 icon="\uf0e7"
-//% groups='["Ultrasonic/Mic", "Linefollower", "Bumper", "Environment", "Actuator", "Color/Gesture", "Mp3", "RFID", "RGB", "InfraTemp"]'
+//% groups='["Ultrasonic/MicYEAH", "Linefollower", "Bumper", "Environment", "Actuator", "Color/Gesture", "Mp3", "RFID", "RGB", "InfraTemp"]'
 namespace powerbrick {
     const PCA9685_ADDRESS = 0x40
     const MODE1 = 0x00
