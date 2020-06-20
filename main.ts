@@ -330,7 +330,7 @@ namespace powerbrick {
     }
 
     //% blockId=powerbrick_ultrasonic block="Ultrasonic|port %port"
-    //% group="Ultrasonic/Mic" weight=91
+    //% group="Ultrasonic/MicYEAH2" weight=91
     export function Ultrasonic(port: Ports): number {
         // send pulse
         let pin = PortDigi[port][0]
